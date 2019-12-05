@@ -1,1 +1,2 @@
-This is an HTML/CSS imitation of Google's homepage. 
+This is an HTML/CSS imitation of Google's homepage. I made this via analysis of Google's generic homepage with Chrome's developer tools.
+Topics practiced: HTML tagging, CSS styling, usage of browser developer tools to inspect webpages.
